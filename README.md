@@ -1,4 +1,4 @@
-🏛 Bechlor of design (digital media) @RMIT University
+🏛 Bachelor of design (digital media) @RMIT University
 
 Frontend development
 
